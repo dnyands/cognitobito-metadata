@@ -1,8 +1,12 @@
 {
   "name": "CognitoBito",
   "symbol": "CBITO",
-  "description": "A intuitive, fun and thoughtful meme coin on Solana.",
+  "description": "CognitoBito is a Solana meme coin that stands for hope, future, and decentralized fun. 🌞🚀",
   "image": "https://dnyands.github.io/cognitobito-metadata/cognitobito.png",
-  "external_url": "https://yourwebsite.com",
-  "attributes": []
+  "external_url": "https://dnyands.github.io/cognitobito-metadata/",
+  "attributes": [
+    { "trait_type": "Meme Power", "value": "Over 9000" },
+    { "trait_type": "Hope Factor", "value": "Infinite" },
+    { "trait_type": "Chain", "value": "Solana" }
+  ]
 }
